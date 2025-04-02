@@ -1,15 +1,21 @@
-# E-Commerce Website
+# J-Machinery - Power Tools & Industrial Equipment E-Commerce
 
-This is an E-Commerce website project built using React for the frontend and Flask for the backend. The application allows users to browse products, add items to their cart, and make purchases. 
-It also includes features such as user authentication, order management, and payment processing.
+This is an E-Commerce platform specializing in power tools and industrial machinery, built using React for the frontend and Flask for the backend. The application allows customers to browse our extensive catalog of professional-grade equipment, add items to their cart, and complete purchases securely.
 
 ## Features
 - User authentication and authorization (registration, login, logout)
-- Product catalog with search and filter functionality
+- Comprehensive product catalog with advanced search and filter functionality
 - Shopping cart with item management
 - Order management (view order history, track order status)
-- Payment processing using Stripe (or another payment gateway)
+- Secure payment processing
 - Admin panel for managing products, categories, and orders
+- Product specifications and comparison tools for industrial equipment
+
+## Product Categories
+- Power Tools (Drills, Saws, Sanders, etc.)
+- Heavy Machinery (Excavators, Loaders, etc.)
+- Industrial Equipment (Compressors, Generators, etc.)
+- Safety Gear and Accessories
 
 ## Technologies Used
 
@@ -36,8 +42,8 @@ It also includes features such as user authentication, order management, and pay
 
   - Clone the repository:
 
-        git clone https://github.com/yourusername/e-commerce-website.git
-        cd e-commerce-website/backend
+        git clone https://github.com/yourusername/j-machinery.git
+        cd j-machinery/backend
 
   - Create a virtual environment:
 
