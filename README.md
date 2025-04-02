@@ -1,6 +1,6 @@
-# J-Machinery - Power Tools & Industrial Equipment E-Commerce
+# J-Machinery - Professional Power Tools E-Commerce
 
-This is an E-Commerce platform specializing in power tools and industrial machinery, built using React for the frontend and Flask for the backend. The application allows customers to browse our extensive catalog of professional-grade equipment, add items to their cart, and complete purchases securely.
+This is an E-Commerce platform specializing in professional power tools and accessories, built using React for the frontend and Flask for the backend. The application allows customers to browse our extensive catalog of power tools, add items to their cart, and complete purchases securely.
 
 ## Features
 - User authentication and authorization (registration, login, logout)
@@ -8,14 +8,15 @@ This is an E-Commerce platform specializing in power tools and industrial machin
 - Shopping cart with item management
 - Order management (view order history, track order status)
 - Secure payment processing
-- Admin panel for managing products, categories, and orders
-- Product specifications and comparison tools for industrial equipment
+- Admin panel for managing products and orders
+- Product specifications and comparison tools for power tools
 
 ## Product Categories
-- Power Tools (Drills, Saws, Sanders, etc.)
-- Heavy Machinery (Excavators, Loaders, etc.)
-- Industrial Equipment (Compressors, Generators, etc.)
-- Safety Gear and Accessories
+- Power Drills and Drivers
+- Saws (Circular, Jig, Reciprocating)
+- Sanders and Grinders
+- Air Compressors and Nail Guns
+- Tool Accessories and Safety Gear
 
 ## Technologies Used
 
